@@ -1,0 +1,579 @@
+1583249119617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofileSSlYIT"
+1583249119916	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583249120310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583249120310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583249120311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583249120311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583249122041	Marionette	INFO	Listening on port 50155
+1583249122237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583249140872	Marionette	INFO	Stopped listening on port 50155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583249146707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofileCUh2nR"
+1583249147068	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583249147567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583249147567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583249147567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583249147567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583249148876	Marionette	INFO	Listening on port 50238
+1583249149335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583286065851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilebbIR8P"
+1583286066412	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583286066737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583286066737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583286066737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583286066738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583286068416	Marionette	INFO	Listening on port 53167
+1583286068474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583286210540	Marionette	INFO	Stopped listening on port 53167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583286430039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilew7ChG2"
+1583286430305	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583286430590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583286430590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583286430590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583286430590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583286431799	Marionette	INFO	Listening on port 53911
+1583286432055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://magento.com/products/magento-open-source line 1945 > scriptElement, line 4: TypeError: window.optimizely is undefined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.234733662.1520830162.1583286436-417041300.1583286436 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+1583286552049	Marionette	INFO	Stopped listening on port 53911
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583286631621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofile2jT2zM"
+1583286631884	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583286632167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583286632167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583286632167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583286632167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583286633393	Marionette	INFO	Listening on port 54392
+1583286633639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sjrtp6-cdn.marketo.com/rtp-api/v1/rtp.js?aid=magento, line 4: ReferenceError: jQuery is not defined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.184549870.610631161.1583286668-1878222905.1583286668 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583286829073	Marionette	INFO	Stopped listening on port 54392
+[Child 8316, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583287074761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofile5fsvgM"
+1583287075024	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583287075303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583287075303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583287075304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583287075304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583287076523	Marionette	INFO	Listening on port 55239
+1583287076769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_Q9PVngXi17RQahJ6ANKTRgigTh2AUfDbp9b-d8vhWq4.eaM4Ag2IK20DrixDkUZ4lyerR6VYwmjiiuE2IX_SymU.js?q6mot2, line 1: ReferenceError: digitalData is not defined
+JavaScript error: https://magento.com/products/magento-open-source line 1946 > scriptElement, line 4: TypeError: window.optimizely is undefined
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_Q9PVngXi17RQahJ6ANKTRgigTh2AUfDbp9b-d8vhWq4.eaM4Ag2IK20DrixDkUZ4lyerR6VYwmjiiuE2IX_SymU.js?q6mot2, line 1: ReferenceError: _satellite is not defined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.72766035.1770241956.1583287080-1242040842.1583287080, line 125: ReferenceError: digitalData is not defined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/create/ line 1946 > scriptElement, line 4: TypeError: window.optimizely is undefined
+1583287304281	Marionette	INFO	Stopped listening on port 55239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583287418852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilezhuL6e"
+1583287419129	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583287419418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583287419418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583287419419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583287419419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583287420599	Marionette	INFO	Listening on port 55873
+1583287420862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583287491631	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/js/prototype/validation.js, line 29: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/scriptaculous/effects.js, line 73: ReferenceError: Prototype is not defined
+JavaScript error: https://account.magento.com/js/scriptaculous/dragdrop.js, line 8: TypeError: Object.isUndefined is not a function
+JavaScript error: , line 0: uncaught exception: controls.js requires including script.aculo.us' effects.js library
+JavaScript error: https://account.magento.com/js/scriptaculous/slider.js, line 16: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/varien/js.js, line 302: ReferenceError: Ajax is not defined
+JavaScript error: https://account.magento.com/js/varien/form.js, line 25: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/mage/translate.js, line 26: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/google/ga.js, line 462: TypeError: document.observe is not a function
+JavaScript error: https://account.magento.com/js/mage/captcha.js, line 25: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/skin/frontend/enterprise/mc/js/scripts.js?v=185, line 27: TypeError: Validation is undefined
+JavaScript error: https://account.magento.com/skin/frontend/enterprise/mc/js/payment-maintenance.js?v=185, line 1: TypeError: Event.observe is not a function
+JavaScript error: https://account.magento.com/skin/frontend/enterprise/mc/js/enterprise/catalogevent.js?v=185, line 34: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.167601531.414625669.1583287426-1774025893.1583287426, line 105: TypeError: Translate is not a constructor
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.167601531.414625669.1583287426-1774025893.1583287426, line 174: TypeError: document.observe is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.167601531.414625669.1583287426-1774025893.1583287426, line 292: ReferenceError: VarienForm is not defined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583287663305	Marionette	INFO	Stopped listening on port 55873
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KM8MQ7, line 1777: NS_ERROR_NOT_INITIALIZED: 
+[Child 15320, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583288190517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofileyGZcbA"
+1583288190796	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583288191069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583288191069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583288191069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583288191069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583288192397	Marionette	INFO	Listening on port 57166
+1583288192530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583288263962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://d9.flashtalking.com/d9core, line 1: NS_ERROR_FAILURE: 
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 4: TypeError: window.optimizely is undefined
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.123590411.1476232387.1583288195-2076366798.1583288195 line 1945 > scriptElement, line 1: TypeError: jQuery is not a function
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/create/ line 1945 > scriptElement, line 4: TypeError: window.optimizely is undefined
+1583288423187	Marionette	INFO	Stopped listening on port 57166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583288884546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofile10W265"
+1583288884811	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583288885095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583288885095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583288885095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583288885095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583288886333	Marionette	INFO	Listening on port 58327
+1583288886560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/js/prototype/validation.js, line 29: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/scriptaculous/effects.js, line 73: ReferenceError: Prototype is not defined
+JavaScript error: https://account.magento.com/js/scriptaculous/dragdrop.js, line 8: TypeError: Object.isUndefined is not a function
+JavaScript error: , line 0: uncaught exception: controls.js requires including script.aculo.us' effects.js library
+JavaScript error: https://account.magento.com/js/scriptaculous/slider.js, line 16: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/varien/js.js, line 302: ReferenceError: Ajax is not defined
+JavaScript error: https://account.magento.com/js/varien/form.js, line 25: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/mage/translate.js, line 26: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/js/google/ga.js, line 462: TypeError: document.observe is not a function
+JavaScript error: https://account.magento.com/js/mage/captcha.js, line 25: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/skin/frontend/enterprise/mc/js/scripts.js?v=185, line 27: TypeError: Validation is undefined
+JavaScript error: https://account.magento.com/skin/frontend/enterprise/mc/js/payment-maintenance.js?v=185, line 1: TypeError: Event.observe is not a function
+JavaScript error: https://account.magento.com/skin/frontend/enterprise/mc/js/enterprise/catalogevent.js?v=185, line 34: ReferenceError: Class is not defined
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.2578421.413056731.1583288890-1832860824.1583288890, line 105: TypeError: Translate is not a constructor
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.2578421.413056731.1583288890-1832860824.1583288890, line 174: TypeError: document.observe is not a function
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.2578421.413056731.1583288890-1832860824.1583288890, line 292: ReferenceError: VarienForm is not defined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583289115632	Marionette	INFO	Stopped listening on port 58327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583289355488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilexFS51U"
+1583289355757	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583289356039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583289356039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583289356039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583289356039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583289357367	Marionette	INFO	Listening on port 59172
+1583289357500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://magento.com/products/magento-open-source line 1946 > scriptElement, line 4: TypeError: window.optimizely is undefined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583289667515	Marionette	INFO	Stopped listening on port 59172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583289998875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilei6CIi0"
+1583289999138	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583289999419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583289999419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583289999419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583289999419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583290000638	Marionette	INFO	Listening on port 60193
+1583290000890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_Q9PVngXi17RQahJ6ANKTRgigTh2AUfDbp9b-d8vhWq4.eaM4Ag2IK20DrixDkUZ4lyerR6VYwmjiiuE2IX_SymU.js?q6mot2, line 1: ReferenceError: digitalData is not defined
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_Q9PVngXi17RQahJ6ANKTRgigTh2AUfDbp9b-d8vhWq4.eaM4Ag2IK20DrixDkUZ4lyerR6VYwmjiiuE2IX_SymU.js?q6mot2, line 1: ReferenceError: _satellite is not defined
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://account.magento.com/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://account.magento.com/customer/account/create/, line 629: ReferenceError: FormCustom is not defined
+1583290215623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583290245849	Marionette	INFO	Stopped listening on port 60193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583332615996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofileSixnbG"
+1583332616351	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583332616799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583332616799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583332616799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583332616799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583332618211	Marionette	INFO	Listening on port 62255
+1583332618614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370135,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+706431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583332706737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583332706737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583332706737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583332706737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583332708787	Marionette	INFO	Listening on port 62433
+1583332709198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370135,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 20124, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1583378807901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofileJgBJsI"
+1583378808201	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583378808495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583378808495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583378808495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583378808495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583378810078	Marionette	INFO	Listening on port 55266
+1583378810510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583379128717	Marionette	INFO	Stopped listening on port 55266
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583378954474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583378954474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583378954474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583378954474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583378955786	Marionette	INFO	Listening on port 55449
+1583378955943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583379129984	Marionette	INFO	Stopped listening on port 55449
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583379121815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583379121815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583379121815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583379121815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583379123129	Marionette	INFO	Listening on port 55690
+1583379123288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583379125958	Marionette	INFO	Stopped listening on port 55690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583380119668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofile4Ci2IG"
+1583380119959	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583380120255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583380120255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583380120255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583380120255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583380121495	Marionette	INFO	Listening on port 57133
+1583380121683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388308151	Marionette	INFO	Stopped listening on port 57133
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofile8S9fOM"
+1583380185149	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583380185435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583380185435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583380185435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583380185435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583380186795	Marionette	INFO	Listening on port 57271
+1583380186883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388309328	Marionette	INFO	Stopped listening on port 57271
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilet6KQvK"
+1583387095296	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583387095579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583387095579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583387095579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583387095579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583387096958	Marionette	INFO	Listening on port 50220
+1583387097038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388312372	Marionette	INFO	Stopped listening on port 50220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583387824392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583387824392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583387824392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583387824392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583387825715	Marionette	INFO	Listening on port 50910
+1583387825828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388335547	Marionette	INFO	Stopped listening on port 50910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583394648143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofileuaUVWX"
+1583394648413	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583394648692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583394648692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583394648692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583394648692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583394650108	Marionette	INFO	Listening on port 58580
+1583394650153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583394655351	Marionette	INFO	Stopped listening on port 58580
+[Child 20940, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585877905702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\55077\\AppData\\Local\\Temp\\rust_mozprofilefkfQL6"
+1585877906670	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585877906992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585877906992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585877906992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585877906993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585877909519	Marionette	INFO	Listening on port 52573
+1585877909577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585877913823	Marionette	INFO	Stopped listening on port 52573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
