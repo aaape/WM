@@ -1,14 +1,14 @@
-from selenium import webdriver
+from selenium_learn import webdriver
 
 # 显 式 等待 可以 只作 用于 仅有 同步 需求 的 测 试用 例。
 
 # expected_conditions & webdriverwaits
 
 # expented_conditions需要一些预置条件，来作为下一步测试的判断依据
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import  expected_conditions
+from selenium_learn import webdriver
+from selenium_learn.webdriver.common.by import By
+from selenium_learn.webdriver.support.ui import WebDriverWait
+from selenium_learn.webdriver.support import  expected_conditions
 import unittest
 
 class ExplicitWait(unittest.TestCase):

@@ -1,6 +1,6 @@
 # 文件名和类名不能一样
-from selenium import webdriver
-from selenium.webdriver.support.select import Select
+from selenium_learn import webdriver
+from selenium_learn.webdriver.support.select import Select
 import unittest
 
 class new_opt(unittest.TestCase):

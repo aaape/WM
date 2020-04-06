@@ -1,7 +1,7 @@
 # 导入selenium包
 from time import sleep
 
-from selenium import webdriver
+from selenium_learn import webdriver
 import time
 
 # from time import sleep

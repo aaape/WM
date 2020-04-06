@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium_learn import webdriver
 
 dr = webdriver.Firefox()
 

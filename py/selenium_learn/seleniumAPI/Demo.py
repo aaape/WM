@@ -4,7 +4,7 @@
 import unittest
 
 # webdriver包
-from selenium import webdriver
+from selenium_learn import webdriver
 
 # 创建一个测试类（个人理解：一个测试用例，unittest里的最小执行单位）
 # 此句应为unittest框架创建一个测试类的格式，参数为

@@ -1,6 +1,6 @@
 from time import sleep
 
-from selenium import webdriver
+from selenium_learn import webdriver
 
 driver = webdriver.Firefox()
 

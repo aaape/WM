@@ -1,7 +1,7 @@
-from selenium import webdriver
+from selenium_learn import webdriver
 import unittest
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
+from selenium_learn.webdriver.support.ui import WebDriverWait
+from selenium_learn.webdriver.support import expected_conditions
 
 class ford(unittest.TestCase):
     def setUp(self):
