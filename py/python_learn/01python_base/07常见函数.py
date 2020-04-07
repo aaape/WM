@@ -1,0 +1,7 @@
+print("string or value")
+input("string or value")
+len("string")
+str(0)
+str(-3.14)
+int('42')
+int('-99')
