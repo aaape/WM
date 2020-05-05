@@ -1,0 +1,45 @@
+#6.1.1字符串字面量
+# 字符串字面量（stringliteral）是指双引号引住的一系列字符，双引号中可以没有字符，可以只有一个字符，也可以有很答多个字符。
+'this  is a new shit'
+
+#6.1.2双引号
+# 字符串可以用双引号开始和结束，这样的好处是字符串中可以使用单引号
+"this's a new shit"
+
+#6.1.3转义字符
+'that\'s it'
+#其它转义字符：\t制表符 \n换行符 \\反斜杠
+
+#6.1.4原始字符串
+#可以在字符串前加字母r，表示是原始字符串；原始字符串会忽略所有转义字符
+r'holy shit\''
+
+#6.1.5多行字符串\
+#三重引号之间的所有引号，制表符，换行都会被认为是字符串的一部分
+#python的代码块缩进规则不适用于多行字符串
+
+print(
+    '''
+    hello:
+    it's been a long time
+    this world is cruel
+     '''
+)
+
+#6.1.6多行注释
+"""
+that's it 
+"""
+
+#6.1.7字符串下标和切片
+#字符串是一个Iterable
+spam = 'hello,world'
+for i in spam:
+    print(i)
+#下标与切片
+print(spam[0],spam[:5],spam[0:5],spam[5:])
+
+#6.1.8字符串的in 和 not in操作符
+#精确匹配，区分大小写
+print('h' in 'hello,world')
+print('h' not in 'hello')

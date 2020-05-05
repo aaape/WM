@@ -1,5 +1,5 @@
-from selenium_learn import webdriver
-from selenium_learn.webdriver.common.alert import Alert
+from selenium import webdriver
+from selenium.webdriver.common.alert import Alert
 import unittest
 
 class analog_alert(unittest.TestCase):

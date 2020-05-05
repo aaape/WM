@@ -1,0 +1,21 @@
+2020-04-29 23:05:45,361 unit_login.py[line:7] INFO test_login_abc
+2020-04-29 23:05:45,374 unit.py[line:10] INFO setup
+2020-04-29 23:05:54,448 common_fun.py[line:14] INFO check cancel button
+2020-04-29 23:06:02,957 common_fun.py[line:18] INFO update button is not found
+2020-04-29 23:06:02,957 common_fun.py[line:24] INFO check skip button
+2020-04-29 23:06:11,207 common_fun.py[line:28] INFO skip button is not found
+2020-04-29 23:06:11,207 loginView.py[line:18] INFO login
+2020-04-29 23:06:11,207 loginView.py[line:19] INFO input username:abc123
+2020-04-29 23:06:19,433 unit.py[line:14] INFO tearsdown
+2020-04-29 23:07:34,257 unit_login.py[line:7] INFO test_login_abc
+2020-04-29 23:07:34,259 unit.py[line:10] INFO setup
+2020-04-29 23:07:43,144 common_fun.py[line:14] INFO check cancel button
+2020-04-29 23:07:44,211 common_fun.py[line:20] INFO click cancel button
+2020-04-29 23:07:44,270 common_fun.py[line:24] INFO check skip button
+2020-04-29 23:07:45,076 common_fun.py[line:30] INFO click the skip button
+2020-04-29 23:07:45,134 loginView.py[line:18] INFO login
+2020-04-29 23:07:45,135 loginView.py[line:19] INFO input username:abc123
+2020-04-29 23:07:46,494 loginView.py[line:22] INFO input password:123456
+2020-04-29 23:07:47,068 loginView.py[line:25] INFO click login button
+2020-04-29 23:07:48,196 loginView.py[line:27] INFO loging success
+2020-04-29 23:07:48,196 unit.py[line:14] INFO tearsdown

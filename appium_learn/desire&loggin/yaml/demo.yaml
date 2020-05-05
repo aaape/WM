@@ -1,0 +1,10 @@
+name: Tom Smith
+age: 37
+squase:
+  name: jane smith
+  age: 25
+children:
+  - name: jimmy smith
+  age: 15
+  - name: jenny smith
+  age: 12

@@ -1,0 +1,10 @@
+platformName: Android
+platformVersion: 9
+deviceName: ccc
+udid: 8BN0217622004127
+appPackage: com.tal.kaoyan
+appActivity: .ui.activity.SplashActivity
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
+port: 4723

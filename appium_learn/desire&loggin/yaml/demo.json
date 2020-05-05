@@ -1,0 +1,14 @@
+{
+  "name": "tom smith",
+  "age": 37,
+  "spouse": {
+    "name": "jane smith",
+    "age": 25
+  },
+  "children": [{
+    "name": "jimmy smith",
+    "age": 15},{
+    "name": "jenny smith",
+    "age": 12
+  }]
+}
