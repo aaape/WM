@@ -1,10 +1,11 @@
 platformName: Android
-platformVersion: 9
-deviceName: ccc
+platformVersion: '9'
+deviceName: wwm
 udid: 8BN0217622004127
 appPackage: com.tal.kaoyan
 appActivity: .ui.activity.SplashActivity
 unicodeKeyboard: True
 resetKeyboard: True
+app: D:\WM\appium_learn\Test_frame\app\kaoyan3.1.0.apk
 ip: 127.0.0.1
 port: 4723

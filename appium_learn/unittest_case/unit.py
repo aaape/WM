@@ -1,5 +1,5 @@
 import unittest
-from appium_learn.unittest_case.deisred_caps import desired_conf
+from unittest_case.deisred_caps import desired_conf
 import logging
 from time import sleep
 

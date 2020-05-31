@@ -1,5 +1,5 @@
-from appium_learn.unittest_case.unit import StartEnd
-from appium_learn.unittest_case.loginView import LoginView
+from unittest_case.unit import StartEnd
+from unittest_case.loginView import LoginView
 import unittest
 import logging
 

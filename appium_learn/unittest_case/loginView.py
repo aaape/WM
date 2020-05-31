@@ -1,6 +1,6 @@
 import logging
-from appium_learn.unittest_case.common_fun import Common
-from appium_learn.unittest_case.deisred_caps import desired_conf
+from unittest_case.common_fun import Common
+from unittest_case.deisred_caps import desired_conf
 from selenium.webdriver.common.by import By
 
 class LoginView(Common):

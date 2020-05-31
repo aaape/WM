@@ -1,10 +1,10 @@
 #封装公共类：为了处理app更新弹窗和权限弹窗
 
-from appium_learn.unittest_case.baseView import BaseView
+from unittest_case.baseView import BaseView
 import logging
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from appium_learn.unittest_case.deisred_caps import desired_conf
+from unittest_case.deisred_caps import desired_conf
 
 class Common(BaseView):
     cancelBtn = (By.ID,'android:id/button2')
